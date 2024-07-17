@@ -1,5 +1,5 @@
 ## PERSONAL DETAILS :
-  #### Name : SANKET YADAV
+  #### Name : Rishabh
   #### Company : CODTECH IT SOLUTIONS
   #### ID : CT4PP2599
   #### Domain : PYTHON PROGRAMMING
